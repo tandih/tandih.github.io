@@ -1,15 +1,26 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Make an alias in bash shell for Mac osx
+author: Tan
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+When using macOsx we have many command is powerfull. But that is so long and different to remenber. So.. Would you like to create aslias in bash shell for MacOsx? 
 
-## The Eternal Lorem Ipsum? 
+## How to make a alias ? 
 -----
+Launch Terminal from the /Application/Utilities folder or type Command and search Terminal and type the below command:
+#That will redirect to home 
+- cd ~ 
+- ls -a -l 
+Create the .bash_profile(If it is not exit) file using the command line program called ‘vi’ or any text editor if it doesn’t exist:
+- echo '' > .bash_profile
+And type the content in profile, example we need to alias ls -lah by ll
+alias ll='ls -lah'
+save the .bash_profile and exit the text editor
+Refresh the bash shell environment by command:
+source ~/.bash_profile
+That’s it, now the alias will take effec we can injoin the new command so easy and quickly
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+To add other aliases just start a new line,  and apply the same formatting.
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
 
