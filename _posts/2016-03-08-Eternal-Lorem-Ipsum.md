@@ -9,7 +9,7 @@ When using macOsx we have many command is powerfull. But that is so long and dif
 ## How to make a alias ? 
 -----
 Launch Terminal from the /Application/Utilities folder or type Command and search Terminal and type the below command:
-#That will redirect to home 
+That will redirect to home 
 - cd ~ 
 - ls -a -l 
 Create the .bash_profile(If it is not exit) file using the command line program called ‘vi’ or any text editor if it doesn’t exist:
