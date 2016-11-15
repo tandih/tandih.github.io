@@ -1,11 +1,10 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here 1
+title: The Magento 2 api easy to use
 author: Tan
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
-
+We will talking about the magento 2 api and how to use the api in magento 2.
 ## The Eternal Lorem Ipsum? 
 -----
 
