@@ -20,12 +20,12 @@ Create the .bash_profile(If it is not exit) file using the command line program 
 
 And type the content in profile, example we need to alias ls -lah by ll
 
-alias ll='ls -lah'
+ - alias ll='ls -lah'
 
 save the .bash_profile and exit the text editor
 Refresh the bash shell environment by command:
 
-source ~/.bash_profile
+- source ~/.bash_profile
 
 That’s it, now the alias will take effec we can injoin the new command so easy and quickly
 
