@@ -4,7 +4,8 @@ title: The Magento 2 api easy to use
 author: Tan
 ---
 
-We will talking about the magento 2 api and how to use the api in magento 2.
+We will talking about the magento 2 api and how to use the api in magento 2 and make a sample example to explain.
+
 ## The Eternal Lorem Ipsum? 
 -----
 
