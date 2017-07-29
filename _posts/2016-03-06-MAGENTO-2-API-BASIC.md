@@ -1,15 +1,30 @@
 ---
 layout: post
-title: The Magento 2 api easy to use
+title: The Magento 2 api easy to use and helpfull
 author: Tan
 ---
 
 We will talking about the magento 2 api and how to use the api in magento 2 and make a sample example to explain.
 
-## The Eternal Lorem Ipsum? 
+## What is the Magento web API? 
 -----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+The Magento web API framework provides integrators and developers the means to use web services that communicate with the Magento system. Key features include:
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
 
+## What can I do with the Magento web APIs?
+-----
+
+Create a shopping app. This can be a traditional app that a user downloads on a mobile device.
+
+Integrate with CRM or ERP back-end systems.
+
+Integrate with a CMS (Content Management System).
+
+Using as backend for your app, web, .... etc
+
+
+## How can to start? 
+-----
+
+Will final this post as soon as posible 
