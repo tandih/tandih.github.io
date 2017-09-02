@@ -3,7 +3,7 @@ layout: post
 title: Make an alias in bash shell for Mac osx
 author: Tan
 ---
-So simple, When using macOsx we have many command is powerfull. But that is so long and different to remenber. So.. Would you like to create aslias in bash shell for MacOsx? 
+So simple, when using mac-osx we have many command is powerfull. But that is so long and different to remenber. So.. Would you like to create aslias in bash shell for MacOsx? 
 
 Ok, let's go
 
