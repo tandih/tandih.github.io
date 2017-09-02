@@ -102,9 +102,11 @@ button.button-primary:focus {
 
 .intro-header .post-heading h1 {
     color:$white;
-    font-size: 36px;
+    font-size: 25px;
     line-height: 1.5;
     font-family:$raleway ;
+    text-transform: uppercase;
+
 }
 
 @media only screen and (min-width: 768px) {
