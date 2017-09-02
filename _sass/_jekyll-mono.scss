@@ -21,6 +21,7 @@
  .post {
         a {
          color: $mono-color;
+         text-transform: uppercase;
          &:hover{
            color: darken($mono-color,20);
          }
