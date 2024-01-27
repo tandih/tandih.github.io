@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: How robots.txt indirectly impact a website's performance
