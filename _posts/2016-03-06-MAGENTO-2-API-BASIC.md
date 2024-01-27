@@ -8,16 +8,16 @@ API is a set of rules that allows different software applications to communicate
 ## What can I do with the Magento web APIs?
 -----
 
-Create a shopping app. This can be a traditional app that a user downloads on a mobile device.
+- Create a mobile application. This can be a traditional app that a user downloads on a mobile device.
 
-Integrate with CRM or ERP back-end systems.
+- Integrate with CRM or ERP back-end systems.
 
-Integrate with a CMS (Content Management System).
+- Integrate with a CMS (Content Management System).
 
-Using as the backend for your app, web, .... etc
+- Using as the backend for your app, web, .... etc
 
 
-##Key Features and Capabilities:
+## Key Features and Capabilities:
 
 **Versatility and Flexibility:**
 Magento 2 API supports REST and SOAP and grapQL. It allows developers to choose the method that best fits their project requirements. RESTful APIs are ideal for mobile applications and modern web development, while SOAP APIs offer a more structured and standardized approach, and the GrapQL more for the the frontend application and usefull in the headless structure design 
