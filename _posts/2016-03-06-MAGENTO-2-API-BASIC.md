@@ -20,7 +20,7 @@ Integrate with CRM or ERP back-end systems.
 
 Integrate with a CMS (Content Management System).
 
-Using as backend for your app, web, .... etc
+Using as the backend for your app, web, .... etc
 
 
 #Key Features and Capabilities:
@@ -35,7 +35,7 @@ With Magento 2 API, businesses can manage most of the data of their e-commerce s
 The Magento 2 API plays a primary role in integrating third-party applications and services. Whether it's connecting with a payment gateway, a CRM system, or an ERP solution, the API help seamless communication between Magento and external tools. This integration capability is main for businesses looking to create a unified and efficient operational ecosystem.
 
 **Automation and Customization:**
-Automation is key in optimizing e-commerce workflows, and Magento 2 API empowers businesses to automate tasks. Developers can create custom scripts and applications to automate processes such as order fulfillment, inventory management, and customer interactions, saving time and reducing the risk for the application and the business.
+Automation is key in optimizing eCommerce workflows, and Magento 2 API empowers businesses to automate tasks. Developers can create custom scripts and applications to automate processes such as order fulfillment, inventory management, and customer interactions, saving time and reducing the risk for the application and the business.
 
 **Scalability:**
 As businesses grow, scalability becomes a critical factor. The Magento 2 API is designed to scale with the evolving needs of e-commerce enterprises.
