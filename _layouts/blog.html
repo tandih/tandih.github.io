@@ -17,8 +17,33 @@
   </head>
 
   <body>
+  <button onclick="topFunction()" id="gohomeBtn" title="Back to Blog">Blog</button>
 
   <div id="fb-root"></div>
+
+
+<script>
+// Get the button
+let mybutton = document.getElementById("gohomeBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  window.location.href = "https://tandih.github.io/";
+}
+</script>
+
+
   <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
