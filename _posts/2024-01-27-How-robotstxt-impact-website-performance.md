@@ -32,9 +32,9 @@ One side of the note here is the normal visitor won't effected by the robots.txt
 -----
 
 Yes, if you read the sessions above you might already understand why it can impact to the web performance. 
-If your robots.txt did not configured properly it can not protect the weak area on your website website and the bot and crawler can directly access to this area such as the data form, login page, cart page and checkout page ...etc 
+If your robots.txt did not configured properly it can not protect the weak area and data on your website from the bot and web crawler and then the bot and crawler can directly access to this area such as the data form, login page, cart page and checkout page, the page with the dynamic data load from the backend application and so on, the website area that was not under CDN caching  
 
-And with the session and concurrent from those bots and crawler it will consume a lot of your resources and the final thing is your website performance
+And with the concurrent'session from those bots and crawler it will consume a lot of your resources and the final the thing is your website performance is impacted
 
 ##  Conclusion
 -----
@@ -43,4 +43,4 @@ Today we can hear the AI anywhere and in all of the meetings, and the data is th
 
 The post is ref, collected and summary of information and resources that were shared by colleagues in the word via internet 
 
-Thank you so much 
+Thank you so much
