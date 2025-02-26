@@ -5,7 +5,6 @@ author: Tan
 ---
 So simple, when using mac-osx and Linux we have alot of powerful command line. But sometimes it is too long and difficult to remember. So.. Would you like to create an alias in the bash shell for MacOsx? 
 
-![macos-terminal-graphic.webp]({{site.baseurl}}/_posts/macos-terminal-graphic.webp)
 
 Ok, let's go
 
