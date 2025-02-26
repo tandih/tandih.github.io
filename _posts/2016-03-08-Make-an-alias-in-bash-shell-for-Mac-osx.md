@@ -3,7 +3,9 @@ layout: post
 title: Make an alias in bash shell for Mac osx
 author: Tan
 ---
-So simple, when using mac-osx we have many command is powerfull. But that is so long and different to remenber. So.. Would you like to create aslias in bash shell for MacOsx? 
+So simple, when using mac-osx and Linux we have alot of powerful command line. But sometimes it is too long and difficult to remember. So.. Would you like to create an alias in the bash shell for MacOsx? 
+
+![macos-terminal-graphic.webp]({{site.baseurl}}/_posts/macos-terminal-graphic.webp)
 
 Ok, let's go
 
@@ -28,8 +30,6 @@ Refresh the bash shell environment by command:
 
 - source ~/.bash_profile
 
-That’s it, now the alias will take effec we can injoin the new command so easy and quickly
+That’s it, now the alias will take effect we can enjoin the new command so easily and quickly
 
 To add other aliases just start a new line,  and apply the same formatting.
-
-
